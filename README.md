@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. Hope you like my profile.<br>- Hope you are doing well, you would be a great soul<br>- Let me know how can I help you ?<br><br>Thanks for visiting</p>
+<p align="left">Welcome to my GitHub profile. Hope you like my profile.<br>- Hope you are doing well, you would be a great soul<br>- Let me know how can I help you ?<br><br>Thanks for visiting.<br></p>
 
 ###
 
